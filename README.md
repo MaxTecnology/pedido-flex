@@ -18,10 +18,8 @@ Gateway de Pagamentos: ASAAS
 Instalação e Configuração
 Descreva aqui os passos necessários para instalar e configurar o seu projeto. Isso pode incluir clonar o repositório, instalar dependências, configurar variáveis de ambiente, etc.
 
-bash
-Copy code
 # Clonar o repositório
-git clone https://github.com/MaxTecnology/pedido-flex.git
+git clone https://github.com/MaxTecnology/pedido-flex.git)
 
 # Instalar dependências (exemplo para um projeto Node.js)
 cd pedido-flex
@@ -29,7 +27,9 @@ npm install
 
 # Iniciar o servidor (exemplo)
 npm start
-Uso
+
+
+# Uso
 Forneça instruções sobre como usar o sistema, incluindo qualquer passo necessário para executá-lo localmente, acessar a interface do usuário, etc.
 
 # Contribuições
