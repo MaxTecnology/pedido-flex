@@ -34,6 +34,7 @@ Forneça instruções sobre como usar o sistema, incluindo qualquer passo necess
 
 # Contribuições
 Se você estiver aberto a contribuições para o seu projeto, forneça instruções sobre como outros desenvolvedores podem contribuir. Se não, apenas mencione que o projeto está concluído e não está atualmente aceitando contribuições.
+A parte de Backend fica em outro repositorio, no qual estarei postando o link: https://github.com/MaxTecnology/pedido-flex-backend
 
 
 Contato
