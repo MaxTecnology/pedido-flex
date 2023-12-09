@@ -1,4 +1,4 @@
-[pedido-flex]
+# pedido-flex
 Descrição
 [pedido-flex] é um sistema de pedidos e pagamentos desenvolvido como parte do meu Trabalho de Conclusão de Curso em Engenharia de Software. Este sistema é projetado para ser flexível e expansível, inicialmente focado em alimentos, mas com capacidade de incluir outros produtos como água mineral e gás. Utiliza tecnologias modernas como React.js, Node.js e Prisma para oferecer uma experiência de usuário intuitiva e eficiente em plataformas web e móveis.
 
