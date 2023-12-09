@@ -1,6 +1,6 @@
-[Nome do Seu Projeto]
+[pedido-flex]
 Descrição
-[Nome do Seu Projeto] é um sistema de pedidos e pagamentos desenvolvido como parte do meu Trabalho de Conclusão de Curso em Engenharia de Software. Este sistema é projetado para ser flexível e expansível, inicialmente focado em alimentos, mas com capacidade de incluir outros produtos como água mineral e gás. Utiliza tecnologias modernas como React.js, Node.js e Prisma para oferecer uma experiência de usuário intuitiva e eficiente em plataformas web e móveis.
+[pedido-flex] é um sistema de pedidos e pagamentos desenvolvido como parte do meu Trabalho de Conclusão de Curso em Engenharia de Software. Este sistema é projetado para ser flexível e expansível, inicialmente focado em alimentos, mas com capacidade de incluir outros produtos como água mineral e gás. Utiliza tecnologias modernas como React.js, Node.js e Prisma para oferecer uma experiência de usuário intuitiva e eficiente em plataformas web e móveis.
 
 Funcionalidades
 Sistema de Carrinho de Compras: Permite aos usuários selecionar e revisar produtos antes da compra.
@@ -22,7 +22,7 @@ Copy code
 git clone [URL do Repositório]
 
 # Instalar dependências (exemplo para um projeto Node.js)
-cd [Nome do Seu Projeto]
+cd [pedido-flex]
 npm install
 
 # Iniciar o servidor (exemplo)
